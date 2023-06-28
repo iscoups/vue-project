@@ -1,5 +1,6 @@
 <script setup>
-
+import { test } from '@/apis/testApi'
+test()
 </script>
 
 <template>
